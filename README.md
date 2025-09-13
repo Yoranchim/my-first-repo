@@ -10,6 +10,7 @@ I'm learning GitHub and version control. My goal is to:
 - Understand how repositories work
 - Practice collaboration with other developers
 - Learn about open source
+- Understand the basics of dev
 
 ## What I want to learn
 
