@@ -1,6 +1,6 @@
 # my-first-repo
 Test
-# Hi, I'm [York]! 👋
+# Hi, I'm York! 👋
 
 Welcome to my first GitHub repository.
 
